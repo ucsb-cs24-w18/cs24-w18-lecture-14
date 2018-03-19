@@ -31,10 +31,6 @@ N-1 + N-2 + N -3  +.    N-(N-1)
 = N^2 - N^2/2 -N/2
 = N^2/2 - N/2
 
-
-A. N^2
-B. N
-C. N(N-1)
 */
 //Big - O N^2
 void heapSort(int* a, int N){
